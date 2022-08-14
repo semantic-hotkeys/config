@@ -1,5 +1,11 @@
 # config
 
+## Disclaimer
+
+None of these configs are ready to be used. I'm still working towards an initial working prototype
+
+## Summary
+
 Contains some initial configuration for the idea of semantic hotkeys
 
 - Terminal Multiplexers
