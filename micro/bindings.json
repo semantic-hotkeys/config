@@ -1,0 +1,14 @@
+{
+	"Alt-/": "lua:comment.comment",
+	"CtrlUnderscore": "lua:comment.comment",
+
+	"<Ctrl-g><u>": "NextSplit",
+	"<Ctrl-n><j><h>": "VSplit",
+	"<Ctrl-n><j><l>": "VSplit",
+	"<Ctrl-n><j><k>": "HSplit",
+	"<Ctrl-n><j><j>": "HSplit",
+
+	"<Ctrl-n><k>": "AddTab",
+	"<Ctrl-h><h>": "PreviousTab",
+	"<Ctrl-h><l>": "NextTab"
+}
